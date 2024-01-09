@@ -66,10 +66,6 @@ $ cd polis-mobile
 
 ```
 
-Result:
-
-![Add a new library](public/.docs/gifs/add-new-library.gif)
-
 ## 2.2. Local
 
 Run the development server local with &quot;yarn&quot;, &quot;npm&quot;, &quot;pnpm&quot; or manager package your preference:
@@ -85,6 +81,10 @@ $ yarn android
 ```
 
 The aplication going to open in you expo app
+
+Result:
+
+![running](.docs/gifs/running.gif)
 
 # 3. How to create a new branch
 

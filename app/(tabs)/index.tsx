@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 import { Text, View } from '../../components/Themed';
 import DropDownPicker from 'react-native-dropdown-picker';
 import React, { SetStateAction, useState } from 'react';
+import { Link } from 'expo-router';
 
 export default function TabOneScreen() {
   const [openState, setOpenState] = useState(false);
@@ -70,9 +71,13 @@ export default function TabOneScreen() {
         setValue={setCity}
         setItems={setCities}
       />
-      <Text style={styles.button} onPress={() => {}}>
+      
+      <Text style={styles.button}>
+      <Link href="/two">
         Localizar
+      </Link>
       </Text>
+      
     </View>
     </View>
     

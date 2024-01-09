@@ -53,8 +53,15 @@ export default function TabLayout() {
       <Tabs.Screen
         name="tree"
         options={{
-          title: 'Tab Tree',
-          tabBarIcon: ({ color }) => <TabBarIcon name="android" color={color} />,
+          title: 'Santinho',
+          tabBarIcon: ({ color }) => <TabBarIcon name="hand-pointer-o" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="four"
+        options={{
+          title: 'Histórico de Votações',
+          tabBarIcon: ({ color }) => <TabBarIcon name="history" color={color} />,
         }}
       />
     </Tabs>
