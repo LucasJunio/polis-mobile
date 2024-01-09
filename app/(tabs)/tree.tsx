@@ -18,7 +18,7 @@ export default function TabTreeScreen() {
         <Text>Vereador</Text>
         <Image
           style={styles.image}
-          source={{ uri: 'https://pbs.twimg.com/profile_images/1577341269205991424/8NsJKd2O_400x400.jpg' }}  // ou {uri: 'https://exemplo.com/imagem.jpg'}
+          source={{ uri: 'https://s2-g1.glbimg.com/jhZZxvyyfXoq0J5iUZJ4xq3_yD0=/0x0:995x969/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/0/f/yNJOJXTcWRE7OtMMnhBw/fuadok.jpg' }}  // ou {uri: 'https://exemplo.com/imagem.jpg'}
         />
         </View>
       </View>
