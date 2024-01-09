@@ -34,7 +34,7 @@ Beyond is good to has an editor for to work with the code like [VSCode](https://
 
 Essa aplicação é uma ferramenta de apoio as pessoas no mundo político, a ideia é ser uma ferramenta versátil no que tange a esse escopo, auxiliando na tomada de decisão e fornecendo confiança através dos dados que irão orientar os usuários.
 
-![Overview](public/.docs/images/overview.png)
+![Overview](.docs/images/overview.png)
 
 ## 1.1. Stack
 
