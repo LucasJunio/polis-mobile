@@ -53,7 +53,7 @@ Essa aplicação é uma ferramenta de apoio as pessoas no mundo político, a ide
 - [Redux-persist](https://www.npmjs.com/package/redux-persist)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 
-# 2. 🔬 How To Run
+# 2. 🔬 How To Run 
 
 ```bash
 
